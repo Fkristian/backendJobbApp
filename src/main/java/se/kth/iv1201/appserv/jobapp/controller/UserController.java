@@ -26,6 +26,12 @@ public class UserController {
 
     private final UserService userService;
 
+    @GetMapping("/test")
+    public void testDeployment(){
+        System.out.println("we are deployed");
+    }
+
+    @GetMapping
     public List<User> getAllUsers(){
         return userService.getAllUsers();
     }
@@ -36,6 +42,10 @@ public class UserController {
     }
 
     @PostMapping("authenticate")
+    public ResponseEntity<AuthenticationResponse> register(@RequestBody LogInRequest request){
+        return ResponseEntity.ok(userService.authenticate(request));
+    }
+    @PostMapping("response")
     public ResponseEntity<AuthenticationResponse> register(@RequestBody LogInRequest request){
         return ResponseEntity.ok(userService.authenticate(request));
     }

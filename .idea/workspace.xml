@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58630dce-3572-4c61-878c-fa25600bb867" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/system.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/kth/iv1201/appserv/jobapp/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/kth/iv1201/appserv/jobapp/controller/UserController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +134,7 @@
       <workItem from="1677068601431" duration="4251000" />
       <workItem from="1677160658820" duration="401000" />
       <workItem from="1677161154408" duration="60000" />
-      <workItem from="1677162687528" duration="163000" />
+      <workItem from="1677162687528" duration="931000" />
     </task>
     <servers />
   </component>
@@ -176,11 +175,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/se/kth/iv1201/appserv/jobapp/auth/AuthenticationService.java</url>
           <line>46</line>
           <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/se/kth/iv1201/appserv/jobapp/controller/UserController.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/se/kth/iv1201/appserv/jobapp/service/UserService.java</url>
