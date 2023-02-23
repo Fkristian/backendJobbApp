@@ -1,188 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="58630dce-3572-4c61-878c-fa25600bb867" name="Changes" comment="" />
+    <list default="true" id="31ccdf16-788f-4e5f-a8e5-965cb22b9cc8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="JpbToolWindowState">
-    <option name="myId2FirstActivated">
-      <map>
-        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
-        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
-        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
-      </map>
-    </option>
-    <option name="myId2Visible">
-      <map>
-        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
-        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
-        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
-      </map>
-    </option>
-  </component>
-  <component name="ProjectId" id="2L9HwMHqOpHRFLaTt2SS6lGmeVE" />
+  <component name="ProjectId" id="2L9HrPfcKofxBnTFLn0PMUxADr7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="postgresql" />
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend/JobApp" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="se.kth.iv1201.appserv.jobapp.auth" />
-      <recent name="se.kth.iv1201.appserv.jobapp.core.config" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="se.kth.iv1201.appserv.jobapp" />
-      <recent name="se.kth.iv1201.appserv.jobapp.Config" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="JobAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="JobApp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="se.kth.iv1201.appserv.jobapp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="se.kth.iv1201.appserv.jobapp.JobAppApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Spring Boot.JobAppApplication" />
-      </list>
-    </recent_temporary>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JobApp" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="58630dce-3572-4c61-878c-fa25600bb867" name="Changes" comment="" />
-      <created>1675276617274</created>
+      <changelist id="31ccdf16-788f-4e5f-a8e5-965cb22b9cc8" name="Changes" comment="" />
+      <created>1675276578547</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1675276617274</updated>
-      <workItem from="1675276618556" duration="503000" />
-      <workItem from="1675277144105" duration="303000" />
-      <workItem from="1675350622868" duration="4608000" />
-      <workItem from="1675356595993" duration="3332000" />
-      <workItem from="1675359975952" duration="3081000" />
-      <workItem from="1675413315527" duration="25468000" />
-      <workItem from="1675674880156" duration="17000" />
-      <workItem from="1675687977948" duration="614000" />
-      <workItem from="1675691023709" duration="5000" />
-      <workItem from="1675704160238" duration="18000" />
-      <workItem from="1675706185184" duration="3373000" />
-      <workItem from="1675772795596" duration="9319000" />
-      <workItem from="1675858149355" duration="10389000" />
-      <workItem from="1675874949682" duration="1669000" />
-      <workItem from="1676320688112" duration="620000" />
-      <workItem from="1676462272296" duration="3489000" />
-      <workItem from="1676466397405" duration="4851000" />
-      <workItem from="1676538835731" duration="11124000" />
-      <workItem from="1676558359274" duration="3297000" />
-      <workItem from="1676621217066" duration="13436000" />
-      <workItem from="1676725348534" duration="1237000" />
-      <workItem from="1676894445746" duration="197000" />
-      <workItem from="1676910968149" duration="3680000" />
-      <workItem from="1676999358448" duration="5333000" />
-      <workItem from="1677068041343" duration="530000" />
-      <workItem from="1677068601431" duration="4251000" />
-      <workItem from="1677160658820" duration="401000" />
-      <workItem from="1677161217349" duration="709000" />
+      <updated>1675276578547</updated>
+      <workItem from="1675276584046" duration="31000" />
+      <workItem from="1677161130729" duration="20000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/se/kth/iv1201/appserv/jobapp/auth/AuthenticateonController.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/se/kth/iv1201/appserv/jobapp/core/config/securityConfig.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/se/kth/iv1201/appserv/jobapp/auth/AuthenticationService.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/se/kth/iv1201/appserv/jobapp/auth/AuthenticationService.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/se/kth/iv1201/appserv/jobapp/controller/UserController.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/se/kth/iv1201/appserv/jobapp/service/UserService.java</url>
-          <line>62</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
