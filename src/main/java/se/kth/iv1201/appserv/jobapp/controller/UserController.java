@@ -45,9 +45,5 @@ public class UserController {
     public ResponseEntity<AuthenticationResponse> register(@RequestBody LogInRequest request){
         return ResponseEntity.ok(userService.authenticate(request));
     }
-    @PostMapping("response")
-    public ResponseEntity<AuthenticationResponse> register(@RequestBody LogInRequest request){
-        return ResponseEntity.ok(userService.authenticate(request));
-    }
 
 }

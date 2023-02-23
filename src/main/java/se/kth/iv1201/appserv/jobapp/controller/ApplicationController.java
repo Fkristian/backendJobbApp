@@ -47,7 +47,7 @@ public class ApplicationController {
         return ResponseEntity.ok(applicationService.getApplicationById(id));
     }
     @PutMapping("update-status")
-    public GenericResponse updateApplicationStatus(@RequestBody StatusRequst statusRequest){
+    public ResponseEntity updateApplicationStatus(@RequestBody StatusRequst statusRequest){
 
         return applicationService.updateApplicationStatus(statusRequest);
     }
