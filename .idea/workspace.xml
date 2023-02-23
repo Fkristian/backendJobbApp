@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58630dce-3572-4c61-878c-fa25600bb867" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/se/kth/iv1201/appserv/jobapp/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/kth/iv1201/appserv/jobapp/controller/UserController.java" afterDir="false" />
-    </list>
+    <list default="true" id="58630dce-3572-4c61-878c-fa25600bb867" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -62,11 +59,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../backendJobbApp" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -134,7 +131,8 @@
       <workItem from="1677068601431" duration="4251000" />
       <workItem from="1677160658820" duration="401000" />
       <workItem from="1677161154408" duration="60000" />
-      <workItem from="1677162687528" duration="931000" />
+      <workItem from="1677162676041" duration="10000" />
+      <workItem from="1677163192145" duration="427000" />
     </task>
     <servers />
   </component>
@@ -175,6 +173,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/se/kth/iv1201/appserv/jobapp/auth/AuthenticationService.java</url>
           <line>46</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/se/kth/iv1201/appserv/jobapp/controller/UserController.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/se/kth/iv1201/appserv/jobapp/service/UserService.java</url>
